@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\bin\Debug\net6.0-windows\TP_MOD2_1302200017.exe
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\bin\Debug\net6.0-windows\TP_MOD2_1302200017.deps.json
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\bin\Debug\net6.0-windows\TP_MOD2_1302200017.runtimeconfig.json
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\bin\Debug\net6.0-windows\TP_MOD2_1302200017.dll
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\bin\Debug\net6.0-windows\TP_MOD2_1302200017.pdb
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.Form1.resources
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.dll
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\refint\TP_MOD2_1302200017.dll
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.pdb
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\TP_MOD2_1302200017.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TP_MOD2_1302200017\TP_MOD2_1302200017\obj\Debug\net6.0-windows\ref\TP_MOD2_1302200017.dll
